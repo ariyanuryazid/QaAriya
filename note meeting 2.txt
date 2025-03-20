@@ -1,0 +1,11 @@
+Top Down = dari level UI sampe database
+Bottom up = Database/API sampe UI
+
+incremental = berurutan unit by unit
+non-incremental = random test
+
+load testing = mengukur maksimum aplikasi sampai masih berjalan user
+stress testing = secara bertahap ditambah user nya, apakah mulai ngelag atau m,asih stabil atau tidak
+
+usability = kemudahan user
+compatibilty = sesuai dengan spek 
